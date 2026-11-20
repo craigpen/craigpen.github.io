@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.familyregistry.helper",
+    "sha256_cert_fingerprints": ["2E:E7:F6:7E:9E:25:20:45:55:66:84:16:3F:31:6C:A1:19:A3:56:DF:CA:F8:91:83:6E:38:B0:12:D9:02:94:95"]
+  }
+}]
